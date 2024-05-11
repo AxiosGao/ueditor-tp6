@@ -1,0 +1,3 @@
+# ueditor-tp6
+
+该项目旨在封装一个可以直接在tp6下composer使用的ueditor
